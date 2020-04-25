@@ -14,7 +14,7 @@ const reducer = (state, action) => {
 }
 
 const PageProvider = ({ name = "about", ...props }) => {
-    const [state, dispatch] = useReducer(reducer, { pageName: name })
+    const [state, dispatch] = useReducer(reducer, { pageName: name });
     return <Provider value={[state, dispatch]} {...props} />;
 };
 
