@@ -4,7 +4,6 @@ function Portfolio() {
     return (
         // < !--MAIN -- >
         <div className="container mt-4 mb-big px-4 bg-white main-border">
-
             {/* <!-- PAGE TITLE --> */}
             <div className="row">
                 <div className="col mx-3 py-4 px-0 title-border">
@@ -49,6 +48,23 @@ function Portfolio() {
                     </a>
                 </div>
 
+                {/* Employee Directory */}
+                <div className="col-md-6 col-lg-4 p-3">
+                    <a href="https://amargolies88.github.io/react-employee-directory" target="_blank" rel="noreferrer noopener">
+                        <div className="row no-gutters">
+                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/empdir.png"
+                                alt="imghere" />
+                        </div>
+                        <div className="row no-gutters">
+                            <div className="col">
+                                <div className="row portfolio-image-label no-gutters bg-hippieblue">
+                                    <h1 className="portfolio-image-text">Employee Directory</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
                 {/* <!-- DAY PLANNER --> */}
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/day-planner" target="_blank" rel="noreferrer noopener">
@@ -60,23 +76,6 @@ function Portfolio() {
                             <div className="col">
                                 <div className="row portfolio-image-label no-gutters bg-hippieblue">
                                     <h1 className="portfolio-image-text">Day Planner</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                {/* Employee Directory */}
-                <div className="col-md-6 col-lg-4 p-3">
-                    <a href="https://amargolies88.github.io/react-employee-directory" target="_blank" rel="noreferrer noopener">
-                        <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/employeedirectory.png"
-                                alt="imghere" />
-                        </div>
-                        <div className="row no-gutters">
-                            <div className="col">
-                                <div className="row portfolio-image-label no-gutters bg-hippieblue">
-                                    <h1 className="portfolio-image-text">Employee Directory</h1>
                                 </div>
                             </div>
                         </div>
