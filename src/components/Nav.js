@@ -22,7 +22,7 @@ function Nav() {
                         <button className="btn nav-link" onClick={() => dispatch({ page: "contact" })}>Contact <span className="sr-only">(current)</span></button>
                     </li>
                     <li className="nav-item active">
-                        <form action="/assets/resume/Resume-Alan-Margolies.pdf" method="get" target="_blank">
+                        <form action="/react-profile/assets/resume/Resume-Alan-Margolies.pdf" method="get" target="_blank">
                             <button className="btn nav-link" type="submit">Resume<span className="sr-only">(current)</span></button>
                         </form>
                     </li>
