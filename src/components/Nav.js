@@ -26,6 +26,11 @@ function Nav() {
                             <button className="btn nav-link" type="submit">Resume<span className="sr-only">(current)</span></button>
                         </form>
                     </li>
+                    <li className="nav-item active">
+                        <form action="https://github.com/amargolies88" method="get" target="_blank">
+                            <button className="btn nav-link" type="submit">GitHub<span className="sr-only">(current)</span></button>
+                        </form>
+                    </li>
                 </ul>
             </div>
         </nav>
