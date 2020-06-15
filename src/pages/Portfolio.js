@@ -14,6 +14,40 @@ function Portfolio() {
             {/* <!-- CONTENT --> */}
             <div className="row no-gutters mx-n3 mt-4 justify-content-lg-start">
 
+                {/* <!-- CHIPPER --> */}
+                <div className="col-md-6 col-lg-4 p-3">
+                    <a href="https://chippers-pets.herokuapp.com" target="_blank" rel="noreferrer noopener">
+                        <div className="row no-gutters">
+                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/chipper.png"
+                                alt="imghere" />
+                        </div>
+                        <div className="row no-gutters">
+                            <div className="col">
+                                <div className="row portfolio-image-label no-gutters bg-hippieblue">
+                                    <h1 className="portfolio-image-text">Chipper</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                {/* <!-- TRIOLINGO --> */}
+                <div className="col-md-6 col-lg-4 p-3">
+                    <a href="https://immense-shore-21113.herokuapp.com" target="_blank" rel="noreferrer noopener">
+                        <div className="row no-gutters">
+                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/triolingo.png"
+                                alt="imghere" />
+                        </div>
+                        <div className="row no-gutters">
+                            <div className="col">
+                                <div className="row portfolio-image-label no-gutters bg-hippieblue">
+                                    <h1 className="portfolio-image-text">Triolingo</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
                 {/* <!-- PASSWORD GENERATOR --> */}
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/password-generator" target="_blank" rel="noreferrer noopener">
