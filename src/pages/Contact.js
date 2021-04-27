@@ -20,15 +20,15 @@ function Contact() {
                     <form action="#">
 
                         {/* <!-- NAME --> */}
-                        <label for="cName">Name:</label>
+                        <label htmlFor="cName">Name:</label>
                         <input type="text" id="cName" name="fullname" placeholder="John Smith" />
 
                         {/* <!-- EMAIL --> */}
-                        <label for="cEmail">Email:</label>
+                        <label htmlFor="cEmail">Email:</label>
                         <input type="text" id="cEmail" name="email" placeholder="example@gmail.com" />
 
                         {/* <!-- MESSAGE --> */}
-                        <label for="subject">Message:</label>
+                        <label htmlFor="subject">Message:</label>
                         <textarea id="cMessage" name="subject" placeholder=""></textarea>
 
                         {/* <!-- SUBMIT BUTTON --> */}

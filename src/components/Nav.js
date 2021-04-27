@@ -3,7 +3,6 @@ import { usePageContext } from "../utils/GlobalState";
 
 function Nav() {
     const [state, dispatch] = usePageContext();
-
     return (
         <nav className="navbar navbar-expand-lg">
             <button className="btn navbar-brand" onClick={() => dispatch({ page: "about" })}>Alan Margolies</button>
