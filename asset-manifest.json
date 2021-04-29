@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-profile/static/css/main.7f904051.chunk.css",
+    "main.css": "/react-profile/static/css/main.643b110a.chunk.css",
     "main.js": "/react-profile/static/js/main.d66d7dc9.chunk.js",
     "main.js.map": "/react-profile/static/js/main.d66d7dc9.chunk.js.map",
     "runtime-main.js": "/react-profile/static/js/runtime-main.15bd9831.js",
@@ -8,15 +8,15 @@
     "static/js/2.02e8bb96.chunk.js": "/react-profile/static/js/2.02e8bb96.chunk.js",
     "static/js/2.02e8bb96.chunk.js.map": "/react-profile/static/js/2.02e8bb96.chunk.js.map",
     "index.html": "/react-profile/index.html",
-    "precache-manifest.08d497287e31f2ef58ea0e56ca179466.js": "/react-profile/precache-manifest.08d497287e31f2ef58ea0e56ca179466.js",
+    "precache-manifest.989959ca117b51c6dd3a5c49628e7fb9.js": "/react-profile/precache-manifest.989959ca117b51c6dd3a5c49628e7fb9.js",
     "service-worker.js": "/react-profile/service-worker.js",
-    "static/css/main.7f904051.chunk.css.map": "/react-profile/static/css/main.7f904051.chunk.css.map",
+    "static/css/main.643b110a.chunk.css.map": "/react-profile/static/css/main.643b110a.chunk.css.map",
     "static/js/2.02e8bb96.chunk.js.LICENSE.txt": "/react-profile/static/js/2.02e8bb96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15bd9831.js",
     "static/js/2.02e8bb96.chunk.js",
-    "static/css/main.7f904051.chunk.css",
+    "static/css/main.643b110a.chunk.css",
     "static/js/main.d66d7dc9.chunk.js"
   ]
 }
