@@ -18,7 +18,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://chippers-pets.herokuapp.com" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/chipper.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/chipper.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
@@ -35,7 +35,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://immense-shore-21113.herokuapp.com" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/triolingo.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/triolingo.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
@@ -52,7 +52,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/password-generator" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/password-generator.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/password-generator.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
@@ -69,7 +69,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/code-quiz" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/quiz.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/quiz.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
@@ -86,7 +86,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/react-employee-directory" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/empdir.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/empdir.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
@@ -103,7 +103,7 @@ function Portfolio() {
                 <div className="col-md-6 col-lg-4 p-3">
                     <a href="https://amargolies88.github.io/day-planner" target="_blank" rel="noreferrer noopener">
                         <div className="row no-gutters">
-                            <img className="img-fluid" src="assets/images/portfolio-imgs/large/day-planner.png"
+                            <img className="img-fluid" src="/react-profile/assets/images/portfolio-imgs/large/day-planner.png"
                                 alt="imghere" />
                         </div>
                         <div className="row no-gutters">
